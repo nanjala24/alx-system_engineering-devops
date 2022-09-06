@@ -1,2 +1,1 @@
-#!/bin/bash
-paste -- | cut -d$'\t' fl
+paste -- | cut -f1
